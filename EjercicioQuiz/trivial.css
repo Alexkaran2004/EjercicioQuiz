@@ -28,6 +28,9 @@
 #Results{
     color: beige;
 }
+#resultsChart{
+color: white;
+}
 
 .imgback{
     width: 100%;
@@ -117,4 +120,3 @@ button:hover::before {
 #resultsList{
     color:grey;
 }
-.parrafoMenu
